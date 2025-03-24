@@ -1,2 +1,7 @@
-# ChurchSchoolDev
+# 교회학교 사용목적 개발도구
 Church School Dev
+
+1. 발표 학생 선정 프로그램
+2. 출석관리 프로그램
+3. 마니또 뽑기 프로그램
+4. Etc
